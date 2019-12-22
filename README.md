@@ -1,10 +1,6 @@
 # DataMining
 
-The main objectives of this practice are:
-  • Spread knowledge of Python package scikit-learn
-  • Take fluency with the selection, standardization, preprocessing and search attributes
-  • Knowing the different implementations of the algorithm-based learning with examples IBL
-  • Working with the concept of optimizing a learner. 
+The main objectives of this practice are to learn to categorize images and classification of group of news. 
   
 Explanation on how has been done can be found on the pdf file.
 
